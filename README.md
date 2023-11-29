@@ -1,0 +1,2 @@
+# smarter_05_multi_1_mod_20230713_0000_0000
+苗株多光譜影像與逆境情況推論模型 Multispectral imagery of seedlings and inference models of adversity
